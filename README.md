@@ -1,9 +1,9 @@
 # **`Smart-Watch-Fitness-Data-Analysis`:muscle:**
 Analyzing fitness data of female user's from Smart Watch Fitness Dataset containing data about Calories burned each day, Distance covered each and more.
 
-# [Data: Heart of Project]
+# [Data::purple_heart: of Project](https://github.com/Shailejaa/Smart-Watch-Fitness-Data-Analysis/blob/main/Smart%20Watch%20fitness%20data.csv)
 
-# Data description:page_facing_up::
+# [Data description:page_facing_up::](https://github.com/Shailejaa/Smart-Watch-Fitness-Data-Analysis/blob/main/Smart%20Watch%20Data%20desciption.txt)
  Id - Represents user's Id.
  
  ActivityDate - It is a date column for the data.
@@ -28,7 +28,7 @@ Analyzing fitness data of female user's from Smart Watch Fitness Dataset contain
  
  FairlyActiveMinutes - This field shows how not very active but active minutes of a user in a day.
  
- LigthlyActiveMinutes - A filed which shows a total of minutes where user was lightly active in a day.
+ LigthlyActiveMinutes - A field which shows a total of minutes where user was lightly active in a day.
  
  SedentaryMinutes - Inactive minutes per day by a user Id.
  
