@@ -1,7 +1,7 @@
-# Smart-Watch-Fitness-Data-Analysis
+# **`Smart-Watch-Fitness-Data-Analysis`:muscle:**
 Analyzing fitness data of female user's from Smart Watch Fitness Dataset containing data about Calories burned each day, Distance covered each and more.
 
-# Data description:
+# Data description:page_facing_up::
  Id - Represents user's Id.
  
  ActivityDate - It is a date column for the data.
@@ -31,3 +31,29 @@ Analyzing fitness data of female user's from Smart Watch Fitness Dataset contain
  SedentaryMinutes - Inactive minutes per day by a user Id.
  
  Calories - Calories burned by each user in a day.
+
+# Tools Used:wrench::
+Libraries like Pandas and Numpy for finding insights.
+For Visualization: Matplotlib and Seaborn
+
+# Mechanism:paperclip::
+1. Data Understanding
+2. Data Cleaning
+3. Finding Insights
+4. Visualization
+   - Bar Plot
+   - Heatmap
+   - Scatter Plot
+   - Line Graph
+   - Pie Chart
+   - Stacked Bar Chart
+5. Sharing Observation
+
+# Code:seedling:
+
+# Note:
+This is my first project.
+So if you find any corrections, please feel free to connect/Dm me. I welcome all corrections and suggestions to improve my projects ahead.
+
+# THANK YOU:bow:
+
