@@ -51,7 +51,7 @@ For Visualization: Matplotlib and Seaborn
    - Stacked Bar Chart
 5. Sharing Observation
 
-# Code:seedling:
+# [Code:seedling:](https://github.com/Shailejaa/Smart-Watch-Fitness-Data-Analysis/blob/main/Smart%20Watch%20Analysis.ipynb)
 
 # Note:
 This is my first project.
